@@ -2,7 +2,7 @@
 
 # How to use:
 
-# build docker-compose where to find our data beses and kafka/zookeper servers
+# build docker-compose where to find our data bases and kafka/zookeper servers
 
 	$ cd composerfiles && docker-compose up -d --build
 
