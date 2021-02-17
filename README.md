@@ -1,4 +1,4 @@
-# Simple demo for implimentig event sourcing pattern
+# Simple demo for implementing event sourcing pattern
 
 # How to use:
 
